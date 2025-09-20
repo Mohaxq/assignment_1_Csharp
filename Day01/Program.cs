@@ -106,16 +106,16 @@
             //Console.WriteLine(13 / 2 + " " + 13 % 2); // answer is d
 
             //15
-            int num = 1, z = 5;
-
-
+            /*int num = 1, z = 5;
             if (!(num <= 0))
                 Console.WriteLine(++num + z++ + " " + ++z);
             else
                 Console.WriteLine(--num + z-- + " " + --z);
 
             // answer is d
+            */
 
         }
     }
 }
+
